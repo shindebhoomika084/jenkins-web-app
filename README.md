@@ -43,6 +43,6 @@ The Jenkins pipeline performs the following stages:
 ##  How To Run This Project
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/Miraaqib786/jenkins-web-app.git
+git clone https://github.com/shindebhoomika084/jenkins-web-app.git
 cd jenkins-web-app
 - run web with live server
